@@ -27,7 +27,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 - Solution URL: (https://github.com/JohnSearch1/QR-code-component-solution)
-- Live Site URL: (mellifluous-licorice-b0ffdb.netlify.app)
+- Live Site URL: (https://mellifluous-licorice-b0ffdb.netlify.app/)
 
 ## My process
 
