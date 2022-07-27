@@ -18,9 +18,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 ### Screenshot
-desktop view.png
-mobile view(iPhone SE).png
-![image](https://user-images.githubusercontent.com/101589592/181377108-fa3c05a9-3c45-4640-b2ec-ecc191cbacf8.png)
+![desktop view](https://user-images.githubusercontent.com/101589592/181377390-1f0abc60-b77f-4087-a8f8-91c32ec69892.png)
+
+![mobile view(iPhone SE)](https://user-images.githubusercontent.com/101589592/181377345-16b12c02-3b17-4ff7-8025-de31a9506a13.png)
+
 
 
 
