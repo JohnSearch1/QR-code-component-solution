@@ -20,14 +20,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 ![desktop view](https://user-images.githubusercontent.com/101589592/181377390-1f0abc60-b77f-4087-a8f8-91c32ec69892.png)
 
-![mobile view(iPhone SE)](https://user-images.githubusercontent.com/101589592/181377345-16b12c02-3b17-4ff7-8025-de31a9506a13.png)
+![mobile view(iPhone SE)_iphoneseblack_portrait](https://user-images.githubusercontent.com/101589592/181379659-74212b58-7480-4ef6-8589-86de022bc993.png)
 
 
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/JohnSearch1/QR-code-component-solution)
+- Live Site URL: (https://johnsearch1.github.io/QR-code-component-solution/)
 
 ## My process
 
